@@ -1,0 +1,6 @@
+fastapi
+pydantic
+tensorflow_decision_forests
+numpy
+pandas
+tensorflow
